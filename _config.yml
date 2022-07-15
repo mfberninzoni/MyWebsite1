@@ -23,7 +23,7 @@ resume_contact_address:         "3943 Cloverhill Road, Baltimore, MD"
 resume_header_contact_info:     "3943 Cloverhill Road, Baltimore, MD • 443-734-4383 • mfberninzoni@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Sixteen year old from Baltimore going into junior year at Poly. Work experience in kitchen maintenance and childcare.</p>"
+resume_header_intro: "<p>Sixteen year old from Baltimore going into junior year at Poly. Work experience in kitchen maintenance and childcare. Looking for a part time position that will allow me to expand and enhance my current skillset.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -50,7 +50,7 @@ resume_social_links:
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  resume_instagram_url:         "insert your Instagram URL here"
+  # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://https://mfberninzoni.github.io/MyWebsite1"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
